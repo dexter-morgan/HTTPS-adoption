@@ -2,6 +2,7 @@
 Scripts to test HTTPS adoption in websites and to scan for Web vulnerabilities
 
 Script Files
+
 	parser.py:
 		needs two aurguments first is input_file_name, other is results_output_file_name
 		This generates the header results into the output_file
