@@ -14,6 +14,6 @@ Script Files
 	pyssltest.py
 		Run this script with '-i input_file -o output_file'.
 		This runs uses the qualys api and writes the results to the output_file
-		This will also create a directory called results with the files that it receives as result from the qualys 		   test.
+		This will also create a directory called results with the files that it receives as result from the qualys test.
 		These result files are parsed to generate the output_file.
 
